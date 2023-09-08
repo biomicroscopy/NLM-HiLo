@@ -8,7 +8,8 @@ Implementation of basic speckle-based HiLo reconstruction and non-local means de
 ### Instructions
 
  - Set up environment:
-MATLAB 2021a
+
+MATLAB 2021a 
 
 Visual Studio 2019 
 
