@@ -13,17 +13,6 @@ Visual Studio 2019
 
 Check [here](https://www.mathworks.com/support/requirements/previous-releases.html) to see if your version of Visual C++ is supported in MATLAB.
 
- - Select compiler using command
-```Matlab
-mex -setup C++
-```
-MEX should be configured to use 'Microsoft Visual C++ 2019 (C)' for C language compilation.
-
- - If need to re-compile mex file, run
-```Matlab
-setup_mex.m
-```
-
  - Run HiLo example
 ```Matlab
 main_test.m
