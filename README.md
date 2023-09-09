@@ -1,11 +1,13 @@
 # NLM-HiLo
-HiLo microscopy reconstruction with non-local means (NLM) denoising
+
+> This content is based on our bioRxiv preprint titled ["Multiplane HiLo microscopy with speckle illumination and non-local means denoising"](https://www.biorxiv.org/content/10.1101/2023.09.08.556851v1).
+
 
 ### Background
 
 [HiLo microscopy](https://sites.bu.edu/biomicroscopy/research/hilo/) is a variant of structured illumination microscopy. It makes use of an uniform-illumination image and a structured illumination image (with a grid or speckle pattern) to achieve widefield optical sectioning.
 
-Implementation of basic speckle-based HiLo reconstruction and NLM denosing to reduce residual speckle noise in the processed image is provided here.
+Implementation of basic speckle-based HiLo reconstruction and non-local means (NLM) denoising to reduce residual speckle noise in the processed image is provided here.
 
 ### Instructions
 
