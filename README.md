@@ -1,6 +1,6 @@
 # NLM-HiLo
 
-> This content is based on our bioRxiv preprint titled ["Multiplane HiLo microscopy with speckle illumination and non-local means denoising"](https://www.biorxiv.org/content/10.1101/2023.09.08.556851v1).
+> This content is based on our work titled ["Multiplane HiLo microscopy with speckle illumination and non-local means denoising"](https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-28/issue-11/116502/Multiplane-HiLo-microscopy-with-speckle-illumination-and-non-local-means/10.1117/1.JBO.28.11.116502.full).
 
 
 ### Background
